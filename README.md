@@ -1,6 +1,7 @@
 ## • [NIPS 2018: Scalable Bayesian Inference](https://github.com/david-dunson/Misc/blob/master/ScalableBayes_dunsonNIPS2018.pdf)
 Tutorial at NIPS 2018. [Link to slides](https://github.com/david-dunson/Misc/blob/master/ScalableBayes_dunsonNIPS2018.pdf).
 
+Video of the presentation [on Facebook](https://www.facebook.com/nipsfoundation/videos/289885991643586/).
 
 ## • [Bayesian variable selection in quantile regression](https://www.researchgate.net/publication/236734631_Bayesian_variable_selection_in_quantile_regression)
 
