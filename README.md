@@ -1,3 +1,11 @@
+## • [JSM 2019: Learning & Exploiting Low-Dimensional Structure in High-Dimensional Data](https://github.com/david-dunson/Misc/blob/master/JSM19-Dunson_vs2.pdf)
+Medallion Lecture - July 29th 2019. [Link to slides](https://github.com/david-dunson/Misc/blob/master/JSM19-Dunson_vs2.pdf)
+
+Related repositories:
+ - [Fisher_Gaussian_Kernel_Mixture](https://github.com/david-dunson/Fisher_Gaussian_Kernel_Mixture)
+ - [SPAclassifier](https://github.com/david-dunson/SPAclassifier)
+ - [spherelets](https://github.com/david-dunson/spherelets)
+
 ## • [NIPS 2018: Scalable Bayesian Inference](https://github.com/david-dunson/Misc/blob/master/ScalableBayes_dunsonNIPS2018.pdf)
 Tutorial at NIPS 2018. [Link to slides](https://github.com/david-dunson/Misc/blob/master/ScalableBayes_dunsonNIPS2018.pdf).
 
