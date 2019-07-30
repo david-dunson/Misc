@@ -2,9 +2,10 @@
 Medallion Lecture - July 29th 2019. [Link to slides](https://github.com/david-dunson/Misc/blob/master/JSM19-Dunson_vs2.pdf)
 
 Related repositories:
+ - [Efficient-Manifold-Learning-Using-Spherelets](https://github.com/mmukhopadhyay/-Efficient-Manifold-Learning-Using-Spherelets)
  - [Fisher_Gaussian_Kernel_Mixture](https://github.com/david-dunson/Fisher_Gaussian_Kernel_Mixture)
  - [SPAclassifier](https://github.com/david-dunson/SPAclassifier)
- - [spherelets](https://github.com/david-dunson/spherelets)
+
 
 ## • [NIPS 2018: Scalable Bayesian Inference](https://github.com/david-dunson/Misc/blob/master/ScalableBayes_dunsonNIPS2018.pdf)
 Tutorial at NIPS 2018. [Link to slides](https://github.com/david-dunson/Misc/blob/master/ScalableBayes_dunsonNIPS2018.pdf).
